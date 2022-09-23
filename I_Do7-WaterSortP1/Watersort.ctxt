@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Watersort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=bottles
+comment2.target=void\ ShowAll(StackAsMyArrayList[])
+comment3.params=bottles
+comment3.target=void\ fill(StackAsMyArrayList[])
+comment4.params=bottles
+comment4.target=boolean\ solved(StackAsMyArrayList[])
+numComments=5
